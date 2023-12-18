@@ -1,2 +1,3 @@
-# Starter Repo
-This repo has everything you need to get started on the program, good luck!
+# Forage Lyft Backend Project Repo
+
+Task 2: Refactoring the code
